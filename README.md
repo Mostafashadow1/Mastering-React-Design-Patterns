@@ -2,6 +2,8 @@
 
 Welcome to the **React Design Patterns Course**! This repository accompanies a video playlist that covers essential design patterns in React, helping developers build clean, scalable, and maintainable code. Each pattern is designed to solve specific challenges commonly encountered in React applications.
 
+#### If you need to learn these topics, check [**React Design Patterns**](https://www.youtube.com/playlist?list=PLS-MrzRLZtmd_pPRIXDhS0pge5vswZTXF).
+
 ## Introduction
 
 This course dives into fundamental React patterns that can help streamline your codebase, reduce redundancy, and improve performance. Each pattern in this repository is paired with a code example that demonstrates both the **problem** and the **solution** that the pattern addresses.
